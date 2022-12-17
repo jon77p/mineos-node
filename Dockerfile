@@ -1,3 +1,4 @@
+ARG ARCH=
 FROM ubuntu:focal
 LABEL MAINTAINER='William Dizon <wdchromium@gmail.com>'
 
